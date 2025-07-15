@@ -1,0 +1,29 @@
+.card {
+  background-color: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 300px;
+  margin: 100px auto;
+  font-family: sans-serif;
+}
+
+.city {
+  margin-bottom: 10px;
+}
+
+.temp,
+.desc {
+  margin: 10px 0;
+}
+
+.change-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #2f80ed;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
