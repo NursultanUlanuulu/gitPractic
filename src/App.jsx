@@ -8,10 +8,9 @@ function App() {
 	return (
 		<>
 			<h1>{/* Собирайте компоненты здесь */}</h1>
-
+			<Header/>
 			<Cards />
 
-			<Header/>
 
 		</>
 	)
