@@ -3,7 +3,7 @@ import './Weather.scss';
 
 export function Weather() {
   return (
-    <div className="card">
+    <div className="car">
       <h2 className="city">Бишкек</h2>
       <p className="temp">Температура: 25°C</p>
       <p className="desc">Аба ырайы: Күн ачык ☀️</p>
